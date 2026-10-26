@@ -1,8 +1,6 @@
 # Goodesign
 
-**Redesign any room from one photo.**
-
-Upload a photo, pick a style or just say what you want, and get a photorealistic redesign in about a minute — walls, windows and layout untouched.
+**AI interior design & virtual staging — 20 live tools, one engine.**
 
 🌐 **[goodesign.io](https://goodesign.io)** · [Pricing](https://www.goodesign.io/pricing) · [Start free](https://www.goodesign.io/sign-up)
 
@@ -10,61 +8,259 @@ Upload a photo, pick a style or just say what you want, and get a photorealistic
 
 ---
 
-## Why it's different
+**Languages / 言語 / Sprachen / Langues / Idiomas / 언어 / اللغات:** [English](#english) · [中文](#%E4%B8%AD%E6%96%87) · [日本語](#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [Deutsch](#deutsch) · [Français](#fran%C3%A7ais) · [Español](#espa%C3%B1ol) · [한국어](#%ED%95%9C%EA%B5%AD%EC%96%B4) · [العربية](#%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9)
+
+---
+
+## English
+
+**Redesign any room from one photo.**
+
+Redesign any room from one photo with AI — virtual staging, restyles, and renovation previews for listings and home makeovers. Start free, 5 credits.
+
+- [Redesign Furnished Rooms](https://www.goodesign.io/redesign-furnished-rooms)
+- [Virtual Staging](https://www.goodesign.io/virtual-staging)
+- [Add Furniture](https://www.goodesign.io/add-furniture-objects)
+- [Swap Furniture](https://www.goodesign.io/swap-furniture-objects)
+- [Furniture Facelift](https://www.goodesign.io/furniture-facelift)
+- [Restyle Surfaces](https://www.goodesign.io/restyle-surfaces)
+- [Repaint Walls](https://www.goodesign.io/repaint-wall)
+- [Interior Renovation](https://www.goodesign.io/interior-home-renovation)
+- [Empty Your Space](https://www.goodesign.io/empty-your-space)
+- [Exterior Rendering](https://www.goodesign.io/render-exterior-structures)
+- [Lawn Replacement](https://www.goodesign.io/lawn-replacement)
+- [Day to Dusk](https://www.goodesign.io/day-to-dusk)
+- [Sky Replacement](https://www.goodesign.io/sky-replacement)
+- [Seasonal Reset](https://www.goodesign.io/seasonal-reset)
+- [Add a Pool](https://www.goodesign.io/add-pool)
+- [Festive Flip](https://www.goodesign.io/festive-flip)
+- [Object Removal](https://www.goodesign.io/object-removal)
+- [Image Enhancement](https://www.goodesign.io/image-enhancement)
+- [Image Upscale](https://www.goodesign.io/image-upscale)
+- [AI product scenes](https://www.goodesign.io/product-scenes)
+
+---
+
+## 中文
+
+**一张照片，重新设计整个房间。**
+
+上传照片、选择风格或直接用话描述，约一分钟得到写实改造图——墙体、窗户与格局保持不动。
+
+- [已布置房间改造](https://www.goodesign.io/redesign-furnished-rooms)
+- [虚拟布置陈设](https://www.goodesign.io/virtual-staging)
+- [添加家具](https://www.goodesign.io/add-furniture-objects)
+- [替换家具](https://www.goodesign.io/swap-furniture-objects)
+- [家具翻新](https://www.goodesign.io/furniture-facelift)
+- [表面材质换新](https://www.goodesign.io/restyle-surfaces)
+- [墙面换色](https://www.goodesign.io/repaint-wall)
+- [室内翻新](https://www.goodesign.io/interior-home-renovation)
+- [清空空间](https://www.goodesign.io/empty-your-space)
+- [外立面效果图](https://www.goodesign.io/render-exterior-structures)
+- [草坪替换](https://www.goodesign.io/lawn-replacement)
+- [白天转黄昏](https://www.goodesign.io/day-to-dusk)
+- [天空替换](https://www.goodesign.io/sky-replacement)
+- [季节切换](https://www.goodesign.io/seasonal-reset)
+- [添加泳池](https://www.goodesign.io/add-pool)
+- [节日布置](https://www.goodesign.io/festive-flip)
+- [物品移除](https://www.goodesign.io/object-removal)
+- [图片增强](https://www.goodesign.io/image-enhancement)
+- [图片高清放大](https://www.goodesign.io/image-upscale)
+- [AI 产品场景图](https://www.goodesign.io/product-scenes)
+
+_*中文版站页尚未上线，以上链接指向英文页。*
+
+---
+
+## 日本語
+
+**部屋を変えるのは、 写真1枚から。**
+
+部屋の写真をアップロードして、スタイルを選ぶか言葉で伝えるだけ。約1分でフォトリアルなリフォーム画像が完成します。壁・窓・レイアウトはそのまま。
+
+- [redesign-furnished-rooms](https://www.goodesign.io/ja/redesign-furnished-rooms)
+- [virtual-staging](https://www.goodesign.io/ja/virtual-staging)
+- [add-furniture-objects](https://www.goodesign.io/ja/add-furniture-objects)
+- [swap-furniture-objects](https://www.goodesign.io/ja/swap-furniture-objects)
+- [furniture-facelift](https://www.goodesign.io/ja/furniture-facelift)
+- [restyle-surfaces](https://www.goodesign.io/ja/restyle-surfaces)
+- [repaint-wall](https://www.goodesign.io/ja/repaint-wall)
+- [interior-home-renovation](https://www.goodesign.io/ja/interior-home-renovation)
+- [empty-your-space](https://www.goodesign.io/ja/empty-your-space)
+- [render-exterior-structures](https://www.goodesign.io/ja/render-exterior-structures)
+- [lawn-replacement](https://www.goodesign.io/ja/lawn-replacement)
+- [day-to-dusk](https://www.goodesign.io/ja/day-to-dusk)
+- [sky-replacement](https://www.goodesign.io/ja/sky-replacement)
+- [seasonal-reset](https://www.goodesign.io/ja/seasonal-reset)
+- [add-pool](https://www.goodesign.io/ja/add-pool)
+- [festive-flip](https://www.goodesign.io/ja/festive-flip)
+- [object-removal](https://www.goodesign.io/ja/object-removal)
+- [image-enhancement](https://www.goodesign.io/ja/image-enhancement)
+- [image-upscale](https://www.goodesign.io/ja/image-upscale)
+- [product-scenes](https://www.goodesign.io/ja/product-scenes)
+
+---
+
+## Deutsch
+
+**Jeden Raum neu gestalten — mit einem Foto.**
+
+Laden Sie ein Raumfoto hoch, wählen Sie einen Stil — in etwa einer Minute ein fotorealistisches KI-Redesign. Wände und Grundriss bleiben unangetastet.
+
+- [redesign-furnished-rooms](https://www.goodesign.io/de/redesign-furnished-rooms)
+- [virtual-staging](https://www.goodesign.io/de/virtual-staging)
+- [add-furniture-objects](https://www.goodesign.io/de/add-furniture-objects)
+- [swap-furniture-objects](https://www.goodesign.io/de/swap-furniture-objects)
+- [furniture-facelift](https://www.goodesign.io/de/furniture-facelift)
+- [restyle-surfaces](https://www.goodesign.io/de/restyle-surfaces)
+- [repaint-wall](https://www.goodesign.io/de/repaint-wall)
+- [interior-home-renovation](https://www.goodesign.io/de/interior-home-renovation)
+- [empty-your-space](https://www.goodesign.io/de/empty-your-space)
+- [render-exterior-structures](https://www.goodesign.io/de/render-exterior-structures)
+- [lawn-replacement](https://www.goodesign.io/de/lawn-replacement)
+- [day-to-dusk](https://www.goodesign.io/de/day-to-dusk)
+- [sky-replacement](https://www.goodesign.io/de/sky-replacement)
+- [seasonal-reset](https://www.goodesign.io/de/seasonal-reset)
+- [add-pool](https://www.goodesign.io/de/add-pool)
+- [festive-flip](https://www.goodesign.io/de/festive-flip)
+- [object-removal](https://www.goodesign.io/de/object-removal)
+- [image-enhancement](https://www.goodesign.io/de/image-enhancement)
+- [image-upscale](https://www.goodesign.io/de/image-upscale)
+- [product-scenes](https://www.goodesign.io/de/product-scenes)
+
+---
+
+## Français
+
+**Repensez n'importe quelle pièce à partir d'une photo.**
+
+Téléversez une photo, choisissez un style ou décrivez votre projet — redesign photoréaliste par IA en environ une minute, murs et agencement intacts.
+
+- [redesign-furnished-rooms](https://www.goodesign.io/fr/redesign-furnished-rooms)
+- [virtual-staging](https://www.goodesign.io/fr/virtual-staging)
+- [add-furniture-objects](https://www.goodesign.io/fr/add-furniture-objects)
+- [swap-furniture-objects](https://www.goodesign.io/fr/swap-furniture-objects)
+- [furniture-facelift](https://www.goodesign.io/fr/furniture-facelift)
+- [restyle-surfaces](https://www.goodesign.io/fr/restyle-surfaces)
+- [repaint-wall](https://www.goodesign.io/fr/repaint-wall)
+- [interior-home-renovation](https://www.goodesign.io/fr/interior-home-renovation)
+- [empty-your-space](https://www.goodesign.io/fr/empty-your-space)
+- [render-exterior-structures](https://www.goodesign.io/fr/render-exterior-structures)
+- [lawn-replacement](https://www.goodesign.io/fr/lawn-replacement)
+- [day-to-dusk](https://www.goodesign.io/fr/day-to-dusk)
+- [sky-replacement](https://www.goodesign.io/fr/sky-replacement)
+- [seasonal-reset](https://www.goodesign.io/fr/seasonal-reset)
+- [add-pool](https://www.goodesign.io/fr/add-pool)
+- [festive-flip](https://www.goodesign.io/fr/festive-flip)
+- [object-removal](https://www.goodesign.io/fr/object-removal)
+- [image-enhancement](https://www.goodesign.io/fr/image-enhancement)
+- [image-upscale](https://www.goodesign.io/fr/image-upscale)
+- [product-scenes](https://www.goodesign.io/fr/product-scenes)
+
+---
+
+## Español
+
+**Rediseña cualquier habitación con una foto.**
+
+Sube una foto, elige un estilo o describe lo que quieres y obtén un rediseño fotorrealista en cerca de un minuto — paredes y distribución intactas.
+
+- [redesign-furnished-rooms](https://www.goodesign.io/es/redesign-furnished-rooms)
+- [virtual-staging](https://www.goodesign.io/es/virtual-staging)
+- [add-furniture-objects](https://www.goodesign.io/es/add-furniture-objects)
+- [swap-furniture-objects](https://www.goodesign.io/es/swap-furniture-objects)
+- [furniture-facelift](https://www.goodesign.io/es/furniture-facelift)
+- [restyle-surfaces](https://www.goodesign.io/es/restyle-surfaces)
+- [repaint-wall](https://www.goodesign.io/es/repaint-wall)
+- [interior-home-renovation](https://www.goodesign.io/es/interior-home-renovation)
+- [empty-your-space](https://www.goodesign.io/es/empty-your-space)
+- [render-exterior-structures](https://www.goodesign.io/es/render-exterior-structures)
+- [lawn-replacement](https://www.goodesign.io/es/lawn-replacement)
+- [day-to-dusk](https://www.goodesign.io/es/day-to-dusk)
+- [sky-replacement](https://www.goodesign.io/es/sky-replacement)
+- [seasonal-reset](https://www.goodesign.io/es/seasonal-reset)
+- [add-pool](https://www.goodesign.io/es/add-pool)
+- [festive-flip](https://www.goodesign.io/es/festive-flip)
+- [object-removal](https://www.goodesign.io/es/object-removal)
+- [image-enhancement](https://www.goodesign.io/es/image-enhancement)
+- [image-upscale](https://www.goodesign.io/es/image-upscale)
+- [product-scenes](https://www.goodesign.io/es/product-scenes)
+
+---
+
+## 한국어
+
+**방을 바꾸는 건, 사진 한 장이면.**
+
+방 사진을 업로드하고 스타일을 고르거나 말로 표현하세요. 약 1분 만에 포토리얼한 리디자인이 완성됩니다 — 벽, 창문, 레이아웃은 그대로.
+
+- [redesign-furnished-rooms](https://www.goodesign.io/ko/redesign-furnished-rooms)
+- [virtual-staging](https://www.goodesign.io/ko/virtual-staging)
+- [add-furniture-objects](https://www.goodesign.io/ko/add-furniture-objects)
+- [swap-furniture-objects](https://www.goodesign.io/ko/swap-furniture-objects)
+- [furniture-facelift](https://www.goodesign.io/ko/furniture-facelift)
+- [restyle-surfaces](https://www.goodesign.io/ko/restyle-surfaces)
+- [repaint-wall](https://www.goodesign.io/ko/repaint-wall)
+- [interior-home-renovation](https://www.goodesign.io/ko/interior-home-renovation)
+- [empty-your-space](https://www.goodesign.io/ko/empty-your-space)
+- [render-exterior-structures](https://www.goodesign.io/ko/render-exterior-structures)
+- [lawn-replacement](https://www.goodesign.io/ko/lawn-replacement)
+- [day-to-dusk](https://www.goodesign.io/ko/day-to-dusk)
+- [sky-replacement](https://www.goodesign.io/ko/sky-replacement)
+- [seasonal-reset](https://www.goodesign.io/ko/seasonal-reset)
+- [add-pool](https://www.goodesign.io/ko/add-pool)
+- [festive-flip](https://www.goodesign.io/ko/festive-flip)
+- [object-removal](https://www.goodesign.io/ko/object-removal)
+- [image-enhancement](https://www.goodesign.io/ko/image-enhancement)
+- [image-upscale](https://www.goodesign.io/ko/image-upscale)
+- [product-scenes](https://www.goodesign.io/ko/product-scenes)
+
+---
+
+## العربية
+
+**أعد تصميم أي غرفة من صورة واحدة.**
+
+ارفع صورة لغرفتك، اختر نمطًا أو صف ما تريده بكلامك، واحصل على تصميم واقعي في نحو دقيقة — مع بقاء الجدران والنوافذ والتخطيط كما هي.
+
+- [redesign-furnished-rooms](https://www.goodesign.io/ar/redesign-furnished-rooms)
+- [virtual-staging](https://www.goodesign.io/ar/virtual-staging)
+- [add-furniture-objects](https://www.goodesign.io/ar/add-furniture-objects)
+- [swap-furniture-objects](https://www.goodesign.io/ar/swap-furniture-objects)
+- [furniture-facelift](https://www.goodesign.io/ar/furniture-facelift)
+- [restyle-surfaces](https://www.goodesign.io/ar/restyle-surfaces)
+- [repaint-wall](https://www.goodesign.io/ar/repaint-wall)
+- [interior-home-renovation](https://www.goodesign.io/ar/interior-home-renovation)
+- [empty-your-space](https://www.goodesign.io/ar/empty-your-space)
+- [render-exterior-structures](https://www.goodesign.io/ar/render-exterior-structures)
+- [lawn-replacement](https://www.goodesign.io/ar/lawn-replacement)
+- [day-to-dusk](https://www.goodesign.io/ar/day-to-dusk)
+- [sky-replacement](https://www.goodesign.io/ar/sky-replacement)
+- [seasonal-reset](https://www.goodesign.io/ar/seasonal-reset)
+- [add-pool](https://www.goodesign.io/ar/add-pool)
+- [festive-flip](https://www.goodesign.io/ar/festive-flip)
+- [object-removal](https://www.goodesign.io/ar/object-removal)
+- [image-enhancement](https://www.goodesign.io/ar/image-enhancement)
+- [image-upscale](https://www.goodesign.io/ar/image-upscale)
+- [product-scenes](https://www.goodesign.io/ar/product-scenes)
+
+---
+
+## English — full overview
+
+**Why it's different**
 
 - **Structure stays put** — walls, windows and layout are locked by default. Only what you ask to change, changes.
 - **Conversation, not knobs** — *"Make the sofa darker. Add a reading chair."* Refine in plain words until it's right.
 - **Decisions, not vibes** — see the result in your actual room, then decide — before you spend a dollar on furniture.
 
----
+**How it works**
 
-## Interior
+1. Upload a photo
+2. Say what you want
+3. Refine and download
 
-- **[Redesign furnished rooms](https://www.goodesign.io/redesign-furnished-rooms)** — Keep the room you have, see it restyled — swap textiles, decor and mood with structure untouched.
-- **[Virtual staging](https://www.goodesign.io/virtual-staging)** — Turn an empty or dated listing photo into a furnished, buyer-ready room in about a minute.
-- **[Add furniture](https://www.goodesign.io/add-furniture-objects)** — Place a sofa, reading chair or full set into your photo with honest scale — before it ships.
-- **[Swap furniture](https://www.goodesign.io/swap-furniture-objects)** — Point at a piece, describe its replacement, and see the swap in place — scale and layout intact.
-- **[Furniture facelift](https://www.goodesign.io/furniture-facelift)** — Keep the silhouette you love, change the skin: fabric, colour and wood tone on your actual piece.
-- **[Restyle surfaces](https://www.goodesign.io/restyle-surfaces)** — Render new finishes on surfaces you are actually replacing — counters, backsplash, floors, built-ins.
-- **[Repaint walls](https://www.goodesign.io/repaint-wall)** — See any paint colour on your actual walls, including brand-name matches, with lighting kept true.
-- **[Interior renovation](https://www.goodesign.io/interior-home-renovation)** — See the renovated version of a tired interior — new finishes, opened-up feel, updated lighting.
-- **[Empty your space](https://www.goodesign.io/empty-your-space)** — Turn a cluttered photo into a clean empty room, then restage it from scratch in any style.
-
-## Exterior & outdoors
-
-- **[Exterior rendering](https://www.goodesign.io/render-exterior-structures)** — Re-clad, repaint and re-light a house or small building — before a single contractor quote.
-- **[Lawn replacement](https://www.goodesign.io/lawn-replacement)** — See a healthy, even lawn on your actual yard before spending a season or a fortune on grass.
-- **[Day to dusk](https://www.goodesign.io/day-to-dusk)** — Same house, twilight magic: warm interior glow, deep blue sky, landscape lights on.
-- **[Sky replacement](https://www.goodesign.io/sky-replacement)** — Overcast shoot day? Swap in a believable blue sky, keeping reflections and light physics intact.
-- **[Seasonal reset](https://www.goodesign.io/seasonal-reset)** — Snowy driveway in the listing photo? Render the same house in early summer.
-- **[Add a pool](https://www.goodesign.io/add-pool)** — Render a realistic pool into your actual backyard, with honest reflections and lighting.
-- **[Festive flip](https://www.goodesign.io/festive-flip)** — Festive decorations on your actual home — garlands, wreaths, warm string lights.
-
-## Cleanup & retouch
-
-- **[Object removal](https://www.goodesign.io/object-removal)** — Trash cans, cables, the seller's dog — select it and it's gone, background rebuilt behind it.
-- **[Image enhancement](https://www.goodesign.io/image-enhancement)** — Fix dark, yellow or blurry listing photos in one pass — no halos, no over-editing.
-- **[Image upscale](https://www.goodesign.io/image-upscale)** — Turn a small phone photo into a sharp image that holds up in print and on the MLS.
-
-## Product
-
-- **[AI product scenes](https://www.goodesign.io/product-scenes)** — Upload a white-background shot, pick a scene or write your own prompt, get a catalog-ready image — product kept pixel-identical.
-
-*Batch uploads and reference photo are on the roadmap.*
-
----
-
-## How it works
-
-1. **Upload a photo** — any room: empty, furnished or cluttered.
-2. **Say what you want** — pick a style or type it in plain words.
-3. **Refine and download** — adjust until it's right, then save in high resolution.
-
----
-
-## Pricing
-
-1 credit = 1 image. You pay for renders, never for features.
+**Pricing** — 1 credit = 1 image. You pay for renders, never for features.
 
 | Plan | Price | Credits |
 |---|---|---|
